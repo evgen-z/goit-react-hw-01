@@ -1,4 +1,4 @@
-import css from "./FriendList.module.css";
+import css from "../module-friendlist/FriendList.module.css";
 
 export default function FriendListItem(props) {
   return (
